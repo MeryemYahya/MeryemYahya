@@ -2,8 +2,8 @@
  - 💻 I’m Fullstack Web / Mobile developer 
  - 📫 How to reach me :
  
- - 📧 yahyamaryam@gmail.com
- - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) linkedin.com/in/meryem-yahya
+  - 📧 yahyamaryam@gmail.com
+  - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) linkedin.com/in/meryem-yahya
 
 
 <!---
