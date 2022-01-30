@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MeryemYahya
-- 💻 I’m Fullstack Web / Mobile developer 
-- 📫 How to reach me :
- - ![image](https://user-images.githubusercontent.com/47725652/151715334-bfa55ed7-26d3-4678-b994-11bce72a073e.png)
+ 👋 Hi, I’m @MeryemYahya
+ 💻 I’m Fullstack Web / Mobile developer 
+ 📫 How to reach me :
+ 
  ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) yahyamaryam@gmail.com
- - https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white linkedin.com/in/meryem-yahya
+ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) linkedin.com/in/meryem-yahya
 
 
 <!---
