@@ -1,9 +1,7 @@
  ### 👋 Hi, I’m @MeryemYahya
  ### 💻 I’m Fullstack Web / Mobile developer 
  ### 🌱 I’m currently learning everything
- ### 📫 How to reach me :  
-   
- <a href="https://www.linkedin.com/in/meryem-yahya/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="meryem-yahya | LinkedIn" width="21px"/></a>
+ ### 📫 How to reach me :    <a href="https://www.linkedin.com/in/meryem-yahya/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="meryem-yahya | LinkedIn" width="21px"/></a>
  
 
 ### 📈 GitHub Stats
