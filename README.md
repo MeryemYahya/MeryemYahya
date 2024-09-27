@@ -1,7 +1,5 @@
-<div slyte="display: flex; align-items: center;">
-  <img width="60" src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif"> 
- <p>Hi, I’m Meryem Yahya</p>  
-</div>
+ ###  <img width="60" src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif">   Hi, I’m Meryem Yahya
+
 
 #### ☁️ Salesforce Consultant 
 #### 🌱 Continuously expanding my expertise in Salesforce and its evolving ecosystem
