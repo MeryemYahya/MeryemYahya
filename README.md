@@ -3,12 +3,13 @@
 
 #### ☁️ Salesforce Consultant 
 #### 🌱 Continuously expanding my expertise in Salesforce and its evolving ecosystem
+#### 🚀 Let’s connect and build something amazing together!
 #### 📫 How to reach me : 
  [<img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="meryem-yahya | LinkedIn" width="21px"/>](https://www.linkedin.com/in/meryem-yahya/)
 
 <br>
 
-#### 🚀 Let’s connect and build something amazing together!
+
 
 ### Meet the Salesforce Mascots
 <div display="flex">
