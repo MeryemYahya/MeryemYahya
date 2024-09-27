@@ -1,4 +1,8 @@
-###  <img width="60" src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif"> Hi, I’m Meryem Yahya
+<div slyte="display: flex; align-items: center;">
+  <img width="60" src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif"> 
+ <p>Hi, I’m Meryem Yahya</p>  
+</div>
+
 #### ☁️ Salesforce Consultant 
 #### 🌱 Continuously expanding my expertise in Salesforce and its evolving ecosystem
 #### 📫 How to reach me : 
@@ -19,7 +23,7 @@
  <img width="90" src="https://media.giphy.com/media/eVOAqEADSRn7EuwLSU/giphy.gif">
  </div>
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemYahya&layout=compact)](https://github.com/MeryemYahya)
 
 <!---
